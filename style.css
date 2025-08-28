@@ -17,12 +17,9 @@ a {
 h1 {
     font-size: 30px;
     text-transform: capitalize;
+    margin-top: 50px;
     margin-bottom: 50px;
-    margin-top: 70px;
 }
 
-.subtitle {
-    margin: 100px 200px 500px 400px  ; //el primer valor es el de la derecha, e
-}
 
-html
+
